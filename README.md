@@ -1,9 +1,8 @@
 #  Hallo!! I'm Shravani 🧑‍💻  
 
 
-<p align="center">
-  <img src="banner.png" width="100%" />
-</p>
+<img src="github.banner.png" width="100%" height="350px"/>
+
 
 # 💫 About Me:
 🔭 I’m currently working on AI & Data Science projects, full-stack web development, and building my personal portfolio<br><br>👯 I’m looking to collaborate on AI/ML projects, data analytics dashboards, and web applications<br><br>🤝 I’m looking for help with advanced machine learning models, backend optimization, and real-world project ideas<br><br>🌱 I’m currently learning MERN stack, full-stack development, and improving my Python & data visualization skills<br><br>💬 Ask me about Python, AI/ML basics, data analysis (Excel, Power BI), HTML/CSS/JS, and UI/UX design<br><br>⚡ Fun fact: I love combining data with design — I enjoy turning complex data into beautiful, user-friendly interfaces!
